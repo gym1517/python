@@ -17,3 +17,4 @@ print(B)
 print(B[n//2])
 
 
+
